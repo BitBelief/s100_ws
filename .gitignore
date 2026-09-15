@@ -1,0 +1,14 @@
+# colcon 建置產物 —— 可由 src/ 完整重生，不進版控
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 編輯器
+.vscode/
+*.swp
+*~
